@@ -1,4 +1,0 @@
-streamlit
-pandas
-zrd_login
-matplotlib
